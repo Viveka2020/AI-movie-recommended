@@ -1,0 +1,124 @@
+{
+  "placeholderImages": [
+    {
+      "id": "inception-poster",
+      "description": "Poster for the movie Inception",
+      "imageUrl": "https://picsum.photos/seed/inception/500/750",
+      "imageHint": "sci-fi futuristic"
+    },
+    {
+      "id": "matrix-poster",
+      "description": "Poster for the movie The Matrix",
+      "imageUrl": "https://picsum.photos/seed/matrix/500/750",
+      "imageHint": "sci-fi action"
+    },
+    {
+      "id": "pulp-fiction-poster",
+      "description": "Poster for the movie Pulp Fiction",
+      "imageUrl": "https://picsum.photos/seed/pulp-fiction/500/750",
+      "imageHint": "crime film"
+    },
+    {
+      "id": "godfather-poster",
+      "description": "Poster for the movie The Godfather",
+      "imageUrl": "https://picsum.photos/seed/godfather/500/750",
+      "imageHint": "mafia movie"
+    },
+    {
+      "id": "forrest-gump-poster",
+      "description": "Poster for the movie Forrest Gump",
+      "imageUrl": "https://picsum.photos/seed/forrest-gump/500/750",
+      "imageHint": "drama film"
+    },
+    {
+      "id": "dark-knight-poster",
+      "description": "Poster for the movie The Dark Knight",
+      "imageUrl": "https://picsum.photos/seed/dark-knight/500/750",
+      "imageHint": "superhero action"
+    },
+    {
+      "id": "shawshank-poster",
+      "description": "Poster for the movie The Shawshank Redemption",
+      "imageUrl": "https://picsum.photos/seed/shawshank/500/750",
+      "imageHint": "prison drama"
+    },
+    {
+      "id": "fight-club-poster",
+      "description": "Poster for the movie Fight Club",
+      "imageUrl": "https://picsum.photos/seed/fight-club/500/750",
+      "imageHint": "thriller drama"
+    },
+    {
+      "id": "interstellar-poster",
+      "description": "Poster for the movie Interstellar",
+      "imageUrl": "https://picsum.photos/seed/interstellar/500/750",
+      "imageHint": "space sci-fi"
+    },
+    {
+      "id": "parasite-poster",
+      "description": "Poster for the movie Parasite",
+      "imageUrl": "https://picsum.photos/seed/parasite/500/750",
+      "imageHint": "thriller dark"
+    },
+    {
+      "id": "goodfellas-poster",
+      "description": "Poster for the movie Goodfellas",
+      "imageUrl": "https://picsum.photos/seed/goodfellas/500/750",
+      "imageHint": "gangster film"
+    },
+    {
+      "id": "se7en-poster",
+      "description": "Poster for the movie Se7en",
+      "imageUrl": "https://picsum.photos/seed/se7en/500/750",
+      "imageHint": "crime thriller"
+    },
+    {
+      "id": "silence-lambs-poster",
+      "description": "Poster for the movie The Silence of the Lambs",
+      "imageUrl": "https://picsum.photos/seed/silence-lambs/500/750",
+      "imageHint": "horror thriller"
+    },
+    {
+      "id": "usual-suspects-poster",
+      "description": "Poster for the movie The Usual Suspects",
+      "imageUrl": "https://picsum.photos/seed/usual-suspects/500/750",
+      "imageHint": "mystery crime"
+    },
+    {
+      "id": "gladiator-poster",
+      "description": "Poster for the movie Gladiator",
+      "imageUrl": "https://picsum.photos/seed/gladiator/500/750",
+      "imageHint": "historical drama"
+    },
+    {
+      "id": "saving-private-ryan-poster",
+      "description": "Poster for the movie Saving Private Ryan",
+      "imageUrl": "https://picsum.photos/seed/saving-private-ryan/500/750",
+      "imageHint": "war film"
+    },
+    {
+      "id": "back-to-the-future-poster",
+      "description": "Poster for the movie Back to the Future",
+      "imageUrl": "https://picsum.photos/seed/back-to-the-future/500/750",
+      "imageHint": "sci-fi comedy"
+    },
+    {
+      "id": "the-lion-king-poster",
+      "description": "Poster for the movie The Lion King",
+      "imageUrl": "https://picsum.photos/seed/the-lion-king/500/750",
+      "imageHint": "animated musical"
+    },
+    {
+      "id": "jurassic-park-poster",
+      "description": "Poster for the movie Jurassic Park",
+      "imageUrl": "https://picsum.photos/seed/jurassic-park/500/750",
+      "imageHint": "adventure sci-fi"
+    },
+    {
+      "id": "alien-poster",
+      "description": "Poster for the movie Alien",
+      "imageUrl": "https://picsum.photos/seed/alien/500/750",
+      "imageHint": "sci-fi horror"
+    }
+  ]
+}
